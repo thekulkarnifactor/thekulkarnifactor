@@ -1,65 +1,90 @@
-<div align="center">
 
-# Hi there, I'm Harish Rajendra Kulkarni! 👋
+# 👋 Hi, I'm **Harish Kulkarni**  
+### 🚀 AI/ML Developer | Full-Stack Engineer | Automation Enthusiast  
 
-![Profile Banner](https://via.placeholder.com/1200x300/667eea/ffffff?text=Full-Stack+Developer+%7C+Legal+Tech+%7C+AI/ML)
+<p align="center">
+  <img src="A_digital_graphic_banner_showcases_Harish_Kulkarni.png" width="100%"/>
+</p>
 
-**Pune, India 🇮🇳 | 44 Repos | Python • React • Docker • Supabase**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thekulkarnifactor&show_icons=true&theme=radical&hide_border=true)
-
-</div>
-
-## 🔭 **I’m currently working on**
-- **JobSearchApp** - Node.js + Supabase job portal with auth & filters
-- **sk_fitness_web_app** - TypeScript fitness meal planning platform
-- **EcortsCalenderBot** - Python e-courts automation & calendar integration
-
-## 👯 **I’m looking to collaborate on**
-- Legal tech solutions (case management, e-courts automation)
-- AI/ML projects (PyTorch, LangChain agentic workflows)
-- Full-stack web apps (React + Python/Django/FastAPI)
-
-## 🤝 **I’m looking for help with**
-- Kubernetes deployment optimization
-- Advanced Supabase edge functions
-- Production ML model serving (ONNX/TorchServe)
-
-## 🌱 **I’m currently learning**
-- PyTorch deep learning & neural networks
-- Agentic AI with LangChain + N8N workflows
-- Advanced cloud orchestration (Kubernetes, Azure AKS)
-
-## 💬 **Ask me about**
-- Legal tech automation & e-courts scraping
-- Full-stack development (React + Python + Docker)
-- Data pipelines & spend analytics platforms
-- Supabase auth & real-time features
-
-## ⚡ **Fun fact**
-Built e-courts calendar bots that sync Indian court hearings to Google Calendar 📅⚖️
+Passionate about building agentic workflows, automating legal workflows & crafting smart products with AI.  
+I enjoy converting ideas into powerful applications using Python, Node.js, React & Cloud technologies.
 
 ---
 
-## 📊 **Recent Activity**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekulkarnifactor&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🛠️ **Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure&logoColor=white)
-
-## 📫 **Connect with me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thekulkarnifactor)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ddatejoshiandassociates.github.io-4285F4?style=flat&logo=google-sites&logoColor=white)](https://ddatejoshiandassociates.github.io)
+## 💫 What I’m Working On Right Now  
+| Project | Tech | Description |
+|-------|-------|-------------|
+| **AI/ML Projects** | PyTorch, LangChain | Neural networks, LLM automation, agentic systems |
+| **JobSearchApp** | Node.js, Supabase | Job portal with auth, filters & saved jobs |
+| **sk_fitness_web_app** | TypeScript | Fitness tracker + meal planning automation |
+| **EcortsCalenderBot** | Python | E-courts scraper → auto sync hearings to Google Calendar ⚖️ |
 
 ---
 
-<div align="center">
-**Made with ❤️ using GitHub Profile README**
-</div>
+## 🤝 Looking to Collaborate On  
+💡 AI/ML (PyTorch, LangChain, Vector DB, RAG)  
+⚙️ Legal Tech (case automation, court calendar bots)  
+🌍 Web Apps (React, Node, Django, FastAPI)
+
+---
+
+## 🧩 Need Help With  
+🔹 Kubernetes deployment & scaling  
+🔹 Supabase edge functions & serverless patterns  
+🔹 Efficient ML model serving — ONNX / TorchServe
+
+---
+
+## 📚 Currently Learning  
+📌 PyTorch (deep learning fundamentals & training loops)  
+📌 LangChain + N8N for Agentic AI automation  
+📌 Kubernetes orchestration (AKS focus)
+
+---
+
+## 💬 Ask Me About  
+⚖️ Legal tech automation (e-courts scraping & scheduling)  
+🖥️ Full-Stack (React, Python, Dockerized apps)  
+📊 Data engineering & spend analytics  
+🔐 Supabase Auth + RLS + Real-Time
+
+---
+
+## ⚡ Fun Fact  
+I built a bot that syncs Indian court hearings **→ Google Calendar automatically** 🧠📅
+
+---
+
+## 🌐 Connect With Me  
+🔗 **LinkedIn** → https://www.linkedin.com/in/harish-kulkarni-423259194  
+📝 **Medium Blogs** → https://medium.com/@harishkulkarni0101  
+📩 **Email** → harishkulkarni0101@gmail.com
+
+---
+
+## 💻 Tech Stack & Tools  
+```yaml
+Languages:      C#, Python, JavaScript, TypeScript, C++, Go, Java, Rust, PHP, R  
+Frontend:       React, Next.js, Angular, Vue.js, HTML, CSS, SASS, Bootstrap  
+Backend:        Node.js, Django, FastAPI, Express.js, Flask, .NET Core  
+DB/Cloud:       Supabase, MongoDB, Postgres, MySQL, Snowflake,
+                Firebase, DynamoDB, Microsoft SQL, SQLite  
+AI/ML:          PyTorch, TensorFlow, Keras, Scikit-Learn, OpenCV  
+DevOps:         Docker, GitHub Actions, Kubernetes, Jenkins, Cloudflare  
+Analytics:      Pandas, NumPy, Matplotlib, Plotly, MLflow  
+```
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harish-kulkarni&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harish-kulkarni&hide_border=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harish-kulkarni&theme=matrix&no-frame=true&margin-w=15" />
+</p>
