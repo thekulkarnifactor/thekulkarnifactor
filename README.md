@@ -76,11 +76,13 @@ Analytics:      Pandas, NumPy, Matplotlib, Plotly, MLflow
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thekulkarnifactor&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thekulkarnifactor&hide_border=true&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats-thekulkarnifactor.vercel.app/api?username=thekulkarnifactor&show_icons=true&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats-thekulkarnifactor.vercel.app/api/top-langs/?username=thekulkarnifactor&layout=compact&theme=tokyonight" />
 </p>
+
 
 ## 🏆 Trophies  
 <p align="center">
