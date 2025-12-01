@@ -3,7 +3,7 @@
 ### 🚀 AI/ML Developer | Full-Stack Engineer | Automation Enthusiast  
 
 <p align="center">
-  <img src="A_digital_graphic_banner_showcases_Harish_Kulkarni.png" width="100%"/>
+  <img src="./A_digital_graphic_banner_showcases_Harish_Kulkarni.png" width="100%"/>
 </p>
 
 Passionate about building agentic workflows, automating legal workflows & crafting smart products with AI.  
@@ -78,13 +78,12 @@ Analytics:      Pandas, NumPy, Matplotlib, Plotly, MLflow
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harish-kulkarni&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harish-kulkarni&hide_border=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thekulkarnifactor&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thekulkarnifactor&hide_border=true&theme=tokyonight" />
 </p>
-
----
 
 ## 🏆 Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harish-kulkarni&theme=matrix&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thekulkarnifactor&theme=matrix&no-frame=true&margin-w=15" />
 </p>
+
