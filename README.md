@@ -76,13 +76,26 @@ Analytics:      Pandas, NumPy, Matplotlib, Plotly, MLflow
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="center">
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=thekulkarnifactor&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophies"/>
-  </div>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thekulkarnifactor&hide_border=true&theme=tokyonight" />
+  <!-- 🔥 Trophy Row -->
+  <img src="https://github-profile-trophy.vercel.app/?username=thekulkarnifactor&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </p>
+
+<p align="center">
+  <!-- 🔥 Streak Card -->
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=thekulkarnifactor&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thekulkarnifactor&theme=matrix&no-frame=true&margin-w=10&column=6"/>
+</p>
+
 
 
 ## 🏆 Trophies  
